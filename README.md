@@ -1,4 +1,4 @@
-# Business-Case-Yulu---Hypothesis-Testing
+Yulu---Hypothesis-Testing
 
 About Yulu
 
